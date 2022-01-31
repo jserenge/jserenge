@@ -1,0 +1,60 @@
+# Basic data visualization with R 
+# 1. BAR PLOTS 
+dt<-data("mtcars")
+head(mtcars)
+counts<-table(mtcars$gear)
+barplot(counts)
+barplot(counts,horiz=T)
+barplot(counts,
+  main="Gear and car",
+  xlab="number of gears",
+  ylab="frequency",
+  legend=rownames(counts),
+  col=c('red','blue','green')
+)
+# a stacked barplot 
+counts<-table(mtcars$vs,mtcars$gear)
+counts
+barplot(counts,
+  main="gears and vs",
+  xlab="number of gears",
+  legend=rownames(counts),
+  col=c("grey","green")
+)
+# grouped barplot 
+counts<-table(mtcars$vs,mtcars$gear)
+counts
+barplot(counts,
+        main="gears and vs",
+        xlab="number of gears",
+        legend=rownames(counts),
+        col=c("grey","green"),
+        beside=T
+)
+
+# a pie chart 
+slices<-c(10,6,8,11,6)
+lbls<-c("jay","vick","glen","rose","dan")
+pie(slices,lbls,main= "a simple pie chart")
+
+# pie chart with percentage for each slice 
+slices<-c(10,6,8,11,6)
+pct<-round(slices/sum(slices)*100)
+lbls<-paste(c("jay","vick","glen","rose","dan"),"",pct,"%",sep="")
+pie(slices,lbls,
+  col=rainbow(5),main="pie chart with percentges")
+
+# 3D piechart 
+library(plotrix)
+slices<-c(10,6,8,11,6)
+pct<-round(slices/sum(slices)*100)
+lbls<-paste(c("jay","vick","glen","rose","dan"),"",pct,"%",sep="")
+pie3D(slices,labels=lbls,explode=0.0,main="3D pie chart with percentges")
+
+# Histograms 
+hist(mtcars$mpg)
+hist(mtcars$mpg,breaks=8,col="red")
+
+# kernel density plot 
+density_data<-density(mtcars$mpg)
+plot(density_data)
