@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jserenge
-- 👀 I’m interested in Data analysis with R ,pytho adn other statistical software ...
+- 👀 I’m interested in Data analysis with R ,python and other statistical softwares 
 - 🌱 I’m currently learning machine learning with python 
 - 💞️ I’m looking to collaborate on various ML related projects 
 - 📫 How to reach me jeremyserenge@gmail.com 
