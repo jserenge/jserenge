@@ -7,9 +7,13 @@ I hold a Bachelor of Science degree in Applied Statistics with Computing, which 
 ### 🔍 What I Do
 
 With over five years of experience, I specialize in:
+
 🔹Data Engineering: Building scalable ETL pipelines, integrating diverse data sources (ERP systems like BC 365), and optimizing data workflows.
+
 🔹Machine Learning & AI: Developing and deploying predictive models (e.g., SARIMAX, Random Forest, Reinforcement Learning) and AI-driven applications such as chatbots.
+
 🔹Business Intelligence & Data Visualization: Creating interactive dashboards using Power BI, providing actionable insights for businesses.
+
 🔹NLP & Automation: Designing AI-driven solutions like chatbots using Gemini (LLM), FastAPI, and MongoDB.
 
 ---
