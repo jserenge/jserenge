@@ -1,7 +1,8 @@
 👋 Hi, I’m @jserenge
 
 I hold a Bachelor of Science degree in Applied Statistics with Computing, which laid a solid foundation for my career as a Data Engineer and Machine Learning Specialist. With a strong background in data engineering, predictive modeling, and business intelligence, I thrive at the intersection of data science and strategic decision-making.
-🔍 What I Do
+
+-🔍 What I Do
 
 With over five years of experience, I specialize in:
 Data Engineering: Building scalable ETL pipelines, integrating diverse data sources (ERP systems like BC 365), and optimizing data workflows.
