@@ -4,17 +4,18 @@ I hold a Bachelor of Science degree in Applied Statistics with Computing, which 
 
 ---
 
-- 🔍 What I Do
+### 🔍 What I Do
 
 With over five years of experience, I specialize in:
-Data Engineering: Building scalable ETL pipelines, integrating diverse data sources (ERP systems like BC 365), and optimizing data workflows.
-Machine Learning & AI: Developing and deploying predictive models (e.g., SARIMAX, Random Forest, Reinforcement Learning) and AI-driven applications such as chatbots.
-Business Intelligence & Data Visualization: Creating interactive dashboards using Power BI, providing actionable insights for businesses.
-NLP & Automation: Designing AI-driven solutions like chatbots using Gemini (LLM), FastAPI, and MongoDB.
+🔹Data Engineering: Building scalable ETL pipelines, integrating diverse data sources (ERP systems like BC 365), and optimizing data workflows.
+🔹Machine Learning & AI: Developing and deploying predictive models (e.g., SARIMAX, Random Forest, Reinforcement Learning) and AI-driven applications such as chatbots.
+🔹Business Intelligence & Data Visualization: Creating interactive dashboards using Power BI, providing actionable insights for businesses.
+🔹NLP & Automation: Designing AI-driven solutions like chatbots using Gemini (LLM), FastAPI, and MongoDB.
 
 ---
 
-- 🚀 Key Projects & Achievements
+### 🚀 Key Projects & Achievements
+
 🔹 **Predictive Sales Model**: Developed and deployed a SARIMAX-based forecasting model integrated via Docker, enhancing sales predictions.
 🔹 **Power BI Dashboards**: Built interactive dashboards for Royal Media Services, Glacier Kenya, and Blowplast Kenya, streamlining decision-making.
 🔹 **Credit Score Prediction Model**: Designed a 96% accurate logistic regression model for a finance company in Singapore.
