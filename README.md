@@ -1,4 +1,4 @@
-👋 Hi, **I’m @jserenge**
+👋 Hi, **My name is Jeremiah Serenge**
 
 I hold a Bachelor of Science degree in Applied Statistics with Computing, which laid a solid foundation for my career as a Data Engineer and Machine Learning Specialist. With a strong background in data engineering, predictive modeling, and business intelligence, I thrive at the intersection of data science and strategic decision-making.
 
