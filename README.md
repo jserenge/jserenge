@@ -21,8 +21,11 @@ With over five years of experience, I specialize in:
 ### 🚀 Key Projects & Achievements
 
 🔹 **Predictive Sales Model**: Developed and deployed a SARIMAX-based forecasting model integrated via Docker, enhancing sales predictions.
+
 🔹 **Power BI Dashboards**: Built interactive dashboards for Royal Media Services, Glacier Kenya, and Blowplast Kenya, streamlining decision-making.
+
 🔹 **Credit Score Prediction Model**: Designed a 96% accurate logistic regression model for a finance company in Singapore.
+
 🔹 **AI-Powered Chatbot**: Developed an LLM-based customer support chatbot, integrating MongoDB for efficient query handling.
 
 ---
