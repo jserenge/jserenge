@@ -1,4 +1,4 @@
-👋 **Hi, I’m @jserenge
+👋 Hi, **I’m @jserenge**
 
 I hold a Bachelor of Science degree in Applied Statistics with Computing, which laid a solid foundation for my career as a Data Engineer and Machine Learning Specialist. With a strong background in data engineering, predictive modeling, and business intelligence, I thrive at the intersection of data science and strategic decision-making.
 
@@ -22,13 +22,12 @@ AI-Powered Chatbot: Developed an LLM-based customer support chatbot, integrating
 
 ---
 
-- 🛠️ Tech Stack
-
-Programming: Python, SQL, R
-Data Science & ML: Scikit-learn, Pandas, NumPy, Reinforcement Learning, SARIMAX, Logistic Regression
-Data Engineering: ETL, Data Pipelines, Database Design, BC 365, MongoDB
-BI & Visualization: Power BI, Matplotlib, Seaborn, Excel (Analysis Toolpak), GGPLOT2
-Deployment & Automation: Docker, FastAPI
+### 🛠️ Tech Stack  
+🔹 **Programming**: 🐍 Python | 🛢️ SQL | 📊 R  
+🔹 **Data Science & ML**: 📈 Scikit-learn | 🐼 Pandas | 🔢 NumPy | 🤖 Reinforcement Learning | 📊 SARIMAX  
+🔹 **Data Engineering**: 🔄 ETL | 📂 Data Pipelines | 🏛️ Database Design | 🏢 BC 365 | 🍃 MongoDB  
+🔹 **BI & Visualization**: 📊 Power BI | 📉 Matplotlib | 🌊 Seaborn | 📋 Excel (Analysis Toolpak) | 📌 GGPLOT2  
+🔹 **Deployment & Automation**: 🐳 Docker | ⚡ FastAPI  
 
 ---
 
