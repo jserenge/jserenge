@@ -30,7 +30,7 @@ With over five years of experience, I specialize in:
 
 ---
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 🔹 Programming: 🐍 Python | 🛢️ SQL | 📊 R
 🔹 Data Science & ML: 📈 Scikit-learn | 🐼 Pandas | 🔢 NumPy | 🤖 Reinforcement Learning | 📊 SARIMAX
 🔹 LLMs & Recommender Systems: 🧠 OpenAI | 🔍 DeepSeek | 🦙 LLaMA | 🧭 LangChain | 🧩 FAISS | 🧱 Chroma | 💡 Custom GPT-based Apps | 🌟 AI-Powered Recommender Systems
