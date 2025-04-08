@@ -30,13 +30,14 @@ With over five years of experience, I specialize in:
 
 ---
 
-### 🛠️ Tech Stack  
-🔹 **Programming**: 🐍 Python | 🛢️ SQL | 📊 R  
-🔹 **Data Science & ML**: 📈 Scikit-learn | 🐼 Pandas | 🔢 NumPy | 🤖 Reinforcement Learning | 📊 SARIMAX  
-🔹 **Data Engineering**: 🔄 ETL | 📂 Data Pipelines | 🏛️ Database Design | 🏢 BC 365 | 🍃 MongoDB  
-🔹 **BI & Visualization**: 📊 Power BI | 📉 Matplotlib | 🌊 Seaborn | 📋 Excel (Analysis Toolpak) | 📌 GGPLOT2  
-🔹 **Deployment & Automation**: 🐳 Docker | ⚡ FastAPI  
-
+🛠️ Tech Stack
+🔹 Programming: 🐍 Python | 🛢️ SQL | 📊 R
+🔹 Data Science & ML: 📈 Scikit-learn | 🐼 Pandas | 🔢 NumPy | 🤖 Reinforcement Learning | 📊 SARIMAX
+🔹 LLMs & Recommender Systems: 🧠 OpenAI | 🔍 DeepSeek | 🦙 LLaMA | 🧭 LangChain | 🧩 FAISS | 🧱 Chroma | 💡 Custom GPT-based Apps | 🌟 AI-Powered Recommender Systems
+🔹 Web & App Dev: 🌐 Streamlit | ⚡ FastAPI
+🔹 Data Engineering: 🔄 ETL | 📂 Data Pipelines | 🏛️ Database Design | 🏢 BC 365 | 🍃 MongoDB
+🔹 BI & Visualization: 📊 Power BI | 📉 Matplotlib | 🌊 Seaborn | 📋 Excel (Analysis Toolpak) | 📌 GGPLOT2
+🔹 Deployment & Automation: 🐳 Docker
 ---
 
 - 🌱 Currently Exploring
