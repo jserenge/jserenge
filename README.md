@@ -31,17 +31,24 @@ With over five years of experience, I specialize in:
 ---
 
 ### 🛠️ Tech Stack
-🔹 **Programming**: 🐍 Python | 🛢️ SQL | 📊 R
-🔹 **Data Science & ML**: 📈 Scikit-learn | 🐼 Pandas | 🔢 NumPy | 🤖 Reinforcement Learning | 📊 SARIMAX
-🔹 **LLMs & Recommender Systems**: 🧠 OpenAI | 🔍 DeepSeek | 🦙 LLaMA | 🧭 LangChain | 🧩 FAISS | 🧱 Chroma | 💡 Custom GPT-based Apps | 🌟 AI-Powered Recommender Systems
-🔹 **Web & App Dev**: 🌐 Streamlit | ⚡ FastAPI
-🔹 **Data Engineering**: 🔄 ETL | 📂 Data Pipelines | 🏛️ Database Design | 🏢 BC 365 | 🍃 MongoDB
-🔹 **BI & Visualization**: 📊 Power BI | 📉 Matplotlib | 🌊 Seaborn | 📋 Excel (Analysis Toolpak) | 📌 GGPLOT2
-🔹 **Deployment & Automation**: 🐳 Docker
+🔹 Programming: 🐍 Python | 🛢️ SQL | 📊 R
+
+🔹 Data Science & ML: 📈 Scikit-learn | 🐼 Pandas | 🔢 NumPy | 🤖 Reinforcement Learning | 📊 SARIMAX
+
+🔹 LLMs & Recommender Systems: 🧠 OpenAI | 🔍 DeepSeek | 🦙 LLaMA | 🧭 LangChain | 🧩 FAISS | 🧱 Chroma | 💡 Custom GPT-based Apps | 🌟 AI-Powered Recommender Systems
+
+🔹 Web & App Dev: 🌐 Streamlit | ⚡ FastAPI
+
+🔹 Data Engineering: 🔄 ETL | 📂 Data Pipelines | 🏛️ Database Design | 🏢 BC 365 | 🍃 MongoDB
+
+🔹 BI & Visualization: 📊 Power BI | 📉 Matplotlib | 🌊 Seaborn | 📋 Excel (Analysis Toolpak) | 📌 GGPLOT2 | 📊 Plotly | 📱 Dash
+
+🔹 Deployment & Automation: 🐳 Docker
 ---
 
 - 🌱 Currently Exploring
 
 I'm expanding my expertise in Large Language Models (LLMs), Computer Vision, and Advanced AI Applications, pushing the boundaries of data-driven innovation.
+Building an Economic State Analyzer Agent that leverages LLMs to assess trends using data from a personal relational database
 - 💞️ I’m looking to collaborate on various ML related projects 
 - 📫 How to reach me jeremyserenge@gmail.com 
