@@ -6,7 +6,7 @@ I hold a Bachelor of Science degree in Applied Statistics with Computing, which 
 
 ### 🔍 What I Do
 
-With over five years of experience, I specialize in:
+With over six years of experience, I specialize in:
 
 🔹Data Engineering: Building scalable ETL pipelines, integrating diverse data sources (ERP systems like BC 365), and optimizing data workflows.
 
